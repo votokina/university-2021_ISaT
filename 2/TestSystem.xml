@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test-system>
+    <question>
+        <question-details>
+            <question-number>Вопрос номер 1</question-number>
+            <question-text>Отличительная черта открытого программного обеспечения?</question-text>
+        </question-details>
+        <answers>
+            <answer-title>Варианты ответа: </answer-title>
+            <answer-variant-1>1. Исходный код программ доступен для просмотра и изменения</answer-variant-1>
+            <answer-variant-2>2. Исходный код программ распространяется бесплатно</answer-variant-2>
+            <answer-variant-3>3. Исходный код программ можно продавать неограниченному числу пользователей</answer-variant-3>
+        </answers>
+    </question>
+
+     <question>
+        <question-details>
+            <question-number>Вопрос номер 2</question-number>
+            <question-text>Пакет прикладных программ (ППП) – это …</question-text>
+        </question-details>
+        <answers>
+            <answer-title>Варианты ответа: </answer-title>
+            <answer-variant-1>1. Любые программы, собранные в одной папке на носителе информации</answer-variant-1>
+            <answer-variant-2>2. Совокупность взаимосвязанных программных средств различного назначения, собранная в единую библиотеку</answer-variant-2>
+            <answer-variant-3>3. Комплекс программ, предназначенный для решения задач определенного класса</answer-variant-3>
+        </answers>
+    </question>
+
+     <question>
+        <question-details>
+            <question-number>Вопрос номер 3</question-number>
+            <question-text>Прикладное программное обеспечение – это</question-text>
+        </question-details>
+        <answers>
+            <answer-title>Варианты ответа: </answer-title>
+            <answer-variant-1>1. Совокупность программ, необходимых для функционирования аппаратных средств компьютера</answer-variant-1>
+            <answer-variant-2>2. Все программы, необходимые для организации диалога пользователя с компьютером</answer-variant-2>
+            <answer-variant-3>3. Программы, написанные для пользователей или самими пользователями, для задания компьютеру конкретной работы</answer-variant-3>
+        </answers>
+    </question>
+</test-system>

@@ -1,0 +1,31 @@
+body {
+    margin: 50px;
+    color:darkslategray;
+    margin-bottom: 15px;
+}
+
+h1 {
+    color: darkcyan;
+    font-size: 25px;
+}
+
+input {
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+button {
+    margin-top: 5px;
+    margin-bottom: 20px;
+    background-color: darkcyan;
+    color: white;
+    border: 0px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: cadetblue;
+}

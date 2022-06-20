@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="index.js"></script>
+    <title>VK API Wall</title>
+</head>
+<body>
+    Вотокина Вкитория, СГН3-61Б<br>
+    
+    <h1>Добавление комментария к записи</h1>
+    Владелец (owner_id):
+    <input type="text" id="owner_id" value="193651719"><br>
+    Элемент:
+    <input type="text" id="post_id" value="1089"><br>
+    Комментарий
+    <input type="text" id="message" value="test"><br>
+    <button id="AddComment" onclick="AddCommentClicked()">Оставить комментарий</button><br>
+
+    <h1>Добавление записи на стену (только для друзей)</h1>
+    Текст поста:
+    <input type="text" id="post" value="test"><br>
+    <button id="AddPost" onclick="AddPostClicked()">Добавить запись на стену</button>
+    
+</body>
+
+</html>
